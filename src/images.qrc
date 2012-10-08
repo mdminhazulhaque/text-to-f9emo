@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="f9">images/f9.png</file>
+        <file alias="appicon">images/facebook.png</file>
+        <file alias="fb">images/fb.png</file>
+        <file alias="about">images/about.png</file>
+        <file alias="exit">images/exit.png</file>
+    </qresource>
+</RCC>
